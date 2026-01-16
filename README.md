@@ -23,4 +23,6 @@ How read and write pcie parallel port signals with python parallel64 with Window
 
 ![resources](img/resources.png)
 
+[InpOutx64](https://www.highrez.co.uk/Downloads/InpOut32/default.htm)
+
 ![inpout64](img/inpout64.png)
