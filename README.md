@@ -5,6 +5,8 @@ How read and write pcie parallel port signals with python parallel64 with Window
 
 ![parporttestercore](img/parporttestercore.png)
 
+[parellel port tester](img/ParallelPortTester.jpg)
+
 ![solder](img/solder.jpg)
 
 ![top](img/top.jpg)
