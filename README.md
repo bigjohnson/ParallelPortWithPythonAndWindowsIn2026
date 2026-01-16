@@ -11,6 +11,8 @@ How read and write pcie parallel port signals with python parallel64 with Window
 
 ![Tester](img/Tester.png)
 
+![Tester1](img/Tester1.png)
+
 ![](img/)
 
 ![](img/)
