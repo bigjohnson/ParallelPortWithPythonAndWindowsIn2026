@@ -1,0 +1,2 @@
+# ParallelPortWithPythonAndWindowsIn2026
+How read and write pcie parallel port signals with python parallel64 with Windows
