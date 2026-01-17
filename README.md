@@ -3,6 +3,8 @@ How read and write pcie parallel port signals with python parallel64 with Window
 
 ## The circuit
 
+The hardware schematic is from this source
+
 ### From forum.linuxcnc.org
 
 [simple parallel port tester board](https://forum.linuxcnc.org/18-computer/55803-a-simple-parallel-port-tester-board)
@@ -11,7 +13,11 @@ How read and write pcie parallel port signals with python parallel64 with Window
 
 ![parellel port tester](img/ParallelPortTester.jpg)
 
+I modified it because some pin are not in/out but only in
+
 ![parellel port tester](img/ParallelPortTester1.jpg)
+
+This is the cbled prototype
 
 ![solder](img/solder.jpg)
 
