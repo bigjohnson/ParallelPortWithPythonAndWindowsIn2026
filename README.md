@@ -17,7 +17,7 @@ I modified it because some pin are not in/out but only in
 
 ![parellel port tester](img/ParallelPortTester1.jpg)
 
-This is the cbled prototype
+This is the soldered prototype
 
 ![solder](img/solder.jpg)
 
