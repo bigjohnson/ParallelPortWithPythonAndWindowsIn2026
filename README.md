@@ -58,6 +58,6 @@ In last century the standards addresses were 0x378 for LPT1, 0x278 for LPT2, but
 
 ## Some test programs in src:
 
-[write_test_data__and_control.py](src/write_test_data__and_control.py)
+[write_test_data__and_control.py](src/write_test_data__and_control.py) blink data and control leds.
 
 ### Remember correct the code with your parallel port adress!
