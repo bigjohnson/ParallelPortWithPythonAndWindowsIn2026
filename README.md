@@ -31,7 +31,7 @@ This is the soldered prototype
 
 ### The software for the tests from www.downtowndougbrown.com available in resouces folder
 
-[Parallel Port Tester windows software](https://www.downtowndougbrown.com/2013/06/parallel-port-tester/)
+### [Parallel Port Tester windows software](https://www.downtowndougbrown.com/2013/06/parallel-port-tester/)
 
 ![Tester](img/Tester.png)
 
