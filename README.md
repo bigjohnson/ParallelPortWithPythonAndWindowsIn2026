@@ -25,7 +25,11 @@ This is the soldered prototype
 
 ![glue](img/glue.jpg)
 
+### Some Pcie parallel port boards
+
 ![parallels](img/parallels.jpg)
+
+### The software for the tests from www.downtowndougbrown.com available in resouces folder
 
 [Parallel Port Tester windows software](https://www.downtowndougbrown.com/2013/06/parallel-port-tester/)
 
