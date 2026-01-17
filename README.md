@@ -48,4 +48,13 @@ In last century the standards addresses were 0x378 for LPT1, 0x278 for LPT2, but
 
 [InpOutx64](https://www.highrez.co.uk/Downloads/InpOut32/default.htm)
 
+## Install python parallel64 library from https://github.com/tekktrik/parallel64.git
+
+## documentation here https://parallel64.readthedocs.io/en/latest/installation.html#downloading-parallel64
+
+## copy the inpout64 library on the python package, run some test program and find where in the error path.
+
 ![inpout64](img/inpout64.png)
+
+## Some test programs in src:
+
