@@ -33,9 +33,13 @@ This is the soldered prototype
 
 ### [Parallel Port Tester windows software](https://www.downtowndougbrown.com/2013/06/parallel-port-tester/)
 
+Here you can find the parallel port address 0xEFF8, in last century the standards addresses were 0x378 for LPT1, 0x278 for LPT2, but with new processors with more address space today all changed.
+
 ![Tester](img/Tester.png)
 
 ![Tester1](img/Tester1.png)
+
+### I checked the Windows hardware pane to confirm the parallel port address 0xEFF8
 
 ![resources](img/resources.png)
 
