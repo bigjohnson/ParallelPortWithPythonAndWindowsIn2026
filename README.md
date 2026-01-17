@@ -44,6 +44,8 @@ Here you can find the parallel port address 0xEFF8.
 
 In last century the standards addresses were 0x378 for LPT1, 0x278 for LPT2, but with new processors with more address space today all changed.
 
+### You must download the InpOut32 library from https://www.highrez.co.uk and add it to the Paralle Port Tester se the image abowe.
+
 [InpOutx64](https://www.highrez.co.uk/Downloads/InpOut32/default.htm)
 
 ![inpout64](img/inpout64.png)
